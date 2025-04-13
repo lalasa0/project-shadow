@@ -59,7 +59,7 @@ project-shadow/
 ```
 Setup Instructions
 **Step 1: Clone the Repository**
-``` git clone <repository-url>
+``` git clone <git clone https://github.com/lalasa0/project-shadow.git>
 cd project-shadow
 ```
 **Step 2: Install Dependencies**

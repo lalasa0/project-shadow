@@ -55,3 +55,37 @@ project-shadow/
 ├── data/
 │   ├── SECRET INFO MANUAL.docx
 │   └── RAG CASE RESPONSE FRAMEWORK.docx
+
+Setup Instructions
+Step 1: Clone the Repository
+''' git clone <repository-url>
+cd project-shadow'''
+Step 2: Install Dependencies
+'''
+pip install -r requirements.txt
+'''
+Step 3: Run the Notebook
+'''
+jupyter notebook shadow_retriever.ipynb
+'''
+Step 4: Query the System
+Select an agent level (Level 1 to Level 5)
+
+Enter your query
+
+Review the generated response with relevant retrieved context
+
+Example Responses
+Level 3 Query → Counter-surveillance protocols for “Operation Eclipse”
+→ Returns RED-FLAG protocols and strategic response rules
+
+Level 1 Query → Disguise techniques
+→ Returns simplified concealment instructions
+
+Level 3 Query on Level 7 Content
+→
+
+nginx
+'''
+Access Denied - Clearance Insufficient.
+'''

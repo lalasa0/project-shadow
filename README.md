@@ -58,26 +58,26 @@ project-shadow/
 
 ```
 Setup Instructions
-Step 1: Clone the Repository
+**Step 1: Clone the Repository**
 ``` git clone <repository-url>
 cd project-shadow
 ```
-Step 2: Install Dependencies
+**Step 2: Install Dependencies**
 ```
 pip install -r requirements.txt
 ```
-Step 3: Run the Notebook
+**Step 3: Run the Notebook**
 ```
 jupyter notebook shadow_retriever.ipynb
 ```
-Step 4: Query the System
+**Step 4: Query the System**
 Select an agent level (Level 1 to Level 5)
 
 Enter your query
 
 Review the generated response with relevant retrieved context
 
-Example Responses
+**Example Responses**
 Level 3 Query → Counter-surveillance protocols for “Operation Eclipse”
 → Returns RED-FLAG protocols and strategic response rules
 

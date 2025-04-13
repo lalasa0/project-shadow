@@ -56,18 +56,20 @@ project-shadow/
 │   ├── SECRET INFO MANUAL.docx
 │   └── RAG CASE RESPONSE FRAMEWORK.docx
 
+```
 Setup Instructions
 Step 1: Clone the Repository
-''' git clone <repository-url>
-cd project-shadow'''
+``` git clone <repository-url>
+cd project-shadow
+```
 Step 2: Install Dependencies
-'''
+```
 pip install -r requirements.txt
-'''
+```
 Step 3: Run the Notebook
-'''
+```
 jupyter notebook shadow_retriever.ipynb
-'''
+```
 Step 4: Query the System
 Select an agent level (Level 1 to Level 5)
 
@@ -85,7 +87,6 @@ Level 1 Query → Disguise techniques
 Level 3 Query on Level 7 Content
 →
 
-nginx
-'''
+```
 Access Denied - Clearance Insufficient.
-'''
+```
